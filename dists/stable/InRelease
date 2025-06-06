@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: dawn-collective
+Label: Dawn Collective
+Suite: stable
+Codename: stable
+Version: latest
+Architectures: amd64
+Components: main
+Description: Dawn Collective Debian Repository
+Date: Fri, 06 Jun 2025 16:24:05 +0000
+Date: Fri, 06 Jun 2025 16:24:05 +0000
+MD5Sum:
+ fcedebae609259b2cc3ae2b172abac94              255 Release
+ ce2114f8dc1a8690566e2701b0935be8              554 main/binary-amd64/Packages
+ 1e6cbdb654a7592b2c887afa14f2a8f7              394 main/binary-amd64/Packages.gz
+SHA1:
+ 041d568b9af04a751a186a7e49501d69167b3983              255 Release
+ b0745656401f59ab7553fd7ff299763e483a765b              554 main/binary-amd64/Packages
+ a0ae1cf8a479acccd25b409192d9a4cee6016878              394 main/binary-amd64/Packages.gz
+SHA256:
+ 60d7c50ca345efc1eaedfd30d73b8407b5aae40c25ec0fccb8da04b2618254b1              255 Release
+ f03fca837cdc4e2ab6fffdce7fbcf7b7a4616c119d6163a4ece46a502f93d7e2              554 main/binary-amd64/Packages
+ 8da583059ff71d58db1062f5800a59ea8583e729983a72585aa03e313a44892c              394 main/binary-amd64/Packages.gz
+SHA512:
+ bd07c34400b06baa7373a735cf491c811cbde2daf3c653812bc2d312595f64b02420a56517007aaaded81c43570feef1fd3fdd19e2fa3e3303d42178fad96136              255 Release
+ 0cba67b83dc9c0233d87672a6d74d41eafa91c551b5815421445f43c9cff38c338474c5ae71aec4cdf89f4789a430d66fc4fba7e8d4e106372d2e8bb964957df              554 main/binary-amd64/Packages
+ 369b9424cdb5c48bf91d7d686560e21686631bbf6b1def6616efd211d3214396d88eca3326fce36b9d8c91deb4a7fd666608b7d76347452f1202418e8b7c5d64              394 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTYs3q34lJLZGzn6ivL+vqnEhiqogUCaEMWJwAKCRDL+vqnEhiq
+otqBAQD9OwqdXzvgY/T3FdLAVU8xHt9wPvTD+FgsFsSkU++KHAD/f8XHv75V8h4I
+82YbOX+UZbpqSBF6ccLXpnNMxdYOYws=
+=Yxr+
+-----END PGP SIGNATURE-----
